@@ -1,9 +1,167 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Travel Case.sticker"
+    },
+    {
+      "filename" : "Newspaper.sticker"
+    },
+    {
+      "filename" : "Radio.sticker"
+    },
+    {
+      "filename" : "Bag To Go.sticker"
+    },
+    {
+      "filename" : "Bird.sticker"
+    },
+    {
+      "filename" : "Tactics.sticker"
+    },
+    {
+      "filename" : "Lighthouse.sticker"
+    },
+    {
+      "filename" : "Oranges And Apples.sticker"
+    },
+    {
+      "filename" : "Chart.sticker"
+    },
+    {
+      "filename" : "Brush.sticker"
+    },
+    {
+      "filename" : "Moving Briefcase.sticker"
+    },
+    {
+      "filename" : "Gunnison.sticker"
+    },
+    {
+      "filename" : "Super8.sticker"
+    },
+    {
+      "filename" : "Compy.sticker"
+    },
+    {
+      "filename" : "Pointed.sticker"
+    },
+    {
+      "filename" : "Books.sticker"
+    },
+    {
+      "filename" : "invite.sticker"
+    },
+    {
+      "filename" : "Magazine.sticker"
+    },
+    {
+      "filename" : "Mail.sticker"
+    },
+    {
+      "filename" : "Wasted Time.stickersequence"
+    },
+    {
+      "filename" : "Moving Smile.sticker"
+    },
+    {
+      "filename" : "Gems.sticker"
+    },
+    {
+      "filename" : "Search.sticker"
+    },
+    {
+      "filename" : "Cactus.sticker"
+    },
+    {
+      "filename" : "Piller.sticker"
+    },
+    {
+      "filename" : "VR.sticker"
+    },
+    {
+      "filename" : "Madman.sticker"
+    },
+    {
+      "filename" : "Colorado Caribou.sticker"
+    },
+    {
+      "filename" : "Cowfolk.sticker"
+    },
+    {
+      "filename" : "Traffic.sticker"
+    },
+    {
+      "filename" : "Quarter.sticker"
+    },
+    {
+      "filename" : "Travel Case Static.sticker"
+    },
+    {
+      "filename" : "Outdoor.sticker"
+    },
+    {
+      "filename" : "Social Gathering.sticker"
+    },
+    {
+      "filename" : "Trumpet.sticker"
+    },
+    {
+      "filename" : "Lark.sticker"
+    },
+    {
+      "filename" : "TV.sticker"
+    },
+    {
+      "filename" : "Wasted Static Time.sticker"
+    },
+    {
+      "filename" : "Trooper.sticker"
+    },
+    {
+      "filename" : "Analytics.sticker"
+    },
+    {
+      "filename" : "Envelope Flip.sticker"
+    },
+    {
+      "filename" : "Cinema.sticker"
+    },
+    {
+      "filename" : "RedRocks.sticker"
+    },
+    {
+      "filename" : "Wagon.sticker"
+    },
+    {
+      "filename" : "Guerilla.sticker"
+    },
+    {
+      "filename" : "Hitching Post.sticker"
+    },
+    {
+      "filename" : "Brand.sticker"
+    },
+    {
+      "filename" : "Happy Sun.sticker"
+    },
+    {
+      "filename" : "Trendy Bag.sticker"
+    },
+    {
+      "filename" : "Envelope Collection.sticker"
+    },
+    {
+      "filename" : "Briefcase.sticker"
+    },
+    {
+      "filename" : "Sonne & Taylor.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "large"
   }
 }
